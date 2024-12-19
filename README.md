@@ -57,11 +57,11 @@ void loop() {
 2. Instalar la librería:
 -  **DHT sensor library for ESPx**
 
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-LCD/blob/main/Captura%20lib.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/DHT22/blob/main/lib.PNG?raw=true).
 
 3. Hacer la conexion de **DHT2** con la **ESP32** como se muestra en la siguiente imagen.
 
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-LCD/blob/main/Captura%20con.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/DHT22/blob/main/cone.PNG?raw=true
 
 ### Instrucciónes de operación
 
@@ -73,7 +73,7 @@ void loop() {
 
 Al iniciar la simulacion, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/Ricardoramosdelapaz/DHT22-CON-LCD/blob/main/res.PNG?raw=true).
+![](https://github.com/Ricardoramosdelapaz/DHT22/blob/main/result.PNG?raw=true).
 
 
 
