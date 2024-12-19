@@ -61,7 +61,7 @@ void loop() {
 
 3. Hacer la conexion de **DHT2** con la **ESP32** como se muestra en la siguiente imagen.
 
-![](https://github.com/Ricardoramosdelapaz/DHT22/blob/main/cone.PNG?raw=true
+![](https://github.com/Ricardoramosdelapaz/DHT22/blob/main/cone.PNG?raw=true).
 
 ### Instrucciónes de operación
 
